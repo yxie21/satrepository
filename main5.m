@@ -1,4 +1,4 @@
-close all;clear;clc;
+
 warning off;
 
 %% plane quiver for z_angle = 0
